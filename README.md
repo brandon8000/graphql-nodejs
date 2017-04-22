@@ -1,6 +1,6 @@
 # GraphQL-MongoDB Server
 
-GraphQL server in Node.js using Express, MongoDB and Mongoose.
+GraphQL server in Node.js using Express, MongoDB and Mongoose. This is a template project derived from [this Sitepoint article](https://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/). The goal is to learn enough from this template in order to set up a working database for my hackathon project demo.
 
 ## Running with Docker
 You can use `docker-compose up` to  run an instance of GraphQL-MongoDB Server and MongoDB locally.
